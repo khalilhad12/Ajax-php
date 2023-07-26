@@ -1,0 +1,2 @@
+select * from etudian limit 0 ,5;
+.attr :pour recupire une attribu via jquery
